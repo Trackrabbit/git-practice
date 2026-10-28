@@ -1,0 +1,9 @@
+# Local data (databases, etc.)
+data/
+
+# Secrets (API keys, env files, etc.)
+secrets/
+
+# Generated files (logs, caches, temp)
+generated/
+.DS_Store
